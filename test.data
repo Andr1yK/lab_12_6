@@ -1,0 +1,4 @@
+go 5
+stay -1
+sit 0
+swim 4

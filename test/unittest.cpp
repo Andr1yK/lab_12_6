@@ -1,5 +1,7 @@
 #include <gtest/gtest.h>
 
+#include "../src/extends/functions.cpp"
+
 TEST(PASSED, alwaysIsTrue) {
   bool TRUE = true;
 
